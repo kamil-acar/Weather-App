@@ -29,4 +29,4 @@ Enjoy using the app! ☀️
 
 
 
-![](Weather App.gif)
+![](Weather-App.gif)
